@@ -1,5 +1,1 @@
-vi 100-empty_casks
-
-#!/bin/bash
-find . -empty -printf %f'\n'
-:wq
+PD
