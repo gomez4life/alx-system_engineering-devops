@@ -1,4 +1,5 @@
 #!/bin/bash
+sudo apt install ufw
 sudo ufw allow 22
 sudo ufw allow 443
 sudo ufw allow 80
